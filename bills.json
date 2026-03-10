@@ -1,0 +1,16 @@
+{
+    "bill-1": {
+        "name": "bill-1",
+        "amount": 1200.0,
+        "date": "24-03-2026",
+        "bill-type": "fiscal-receipt",
+        "apartment-number": 24.0  
+    },
+    "bill-2": {
+        "name": "bill-2",
+        "amount": 2400.0,
+        "date": "22-03-2026",
+        "bill-type": "fiscal-receipt",
+        "apartment-number": 25.0  
+    }
+}
